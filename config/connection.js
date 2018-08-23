@@ -11,7 +11,9 @@ if(process.env.JAWSDB_URL) {
     user: "Alex-Preissler",
     password: "Paintball426*",
     database: "burgers_db"
-});
+  });
+};
+
 
 connection.connect(function(err) {
   if (err) {
