@@ -1,6 +1,6 @@
 # Burger Tracking App #
 
-A numbers and memory game.
+An application to create, track, and delete burgers from a database to track inventory. Uses Node.js Server and MySQL Database
 
 ![Burger Tracking App](./public/assets/img/Bobs-Burgers.png)
 
